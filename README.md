@@ -1,7 +1,6 @@
 ### Hi there 👋 
 
-I am GaKer, an italian developer which loves Java, C, C++, Python and more Languages
+I am GaKer, an italian developer which loves segarsi,la cotolleta le forchette in ceramica e molto altro
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gakerc)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gakerc&show_icons=true&theme=radical)
+![This is an image](https://www.aiafood.com/sites/default/files/articles/cotoletta_milanese.jpg)
 
